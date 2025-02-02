@@ -1,4 +1,5 @@
-# Secoge
+# Projeto ETL automatizado 
+## Com tecnica de WebScraping para coleta de dados direto da API utilizando requests, pandas para tratamento de dados armazenados no dataFrame, utlizando pyodbc para gravar os dados em um banco de dados relacional.   
 
 bibliotecas baixadas
 
@@ -8,31 +9,16 @@ pip install pyodbc
 pip install pandas
 ```
 
-## executando o primeiro script de  teste para verificar o banco de dados SQL Server
+### executando o primeiro script de  teste para verificar o banco de dados SQL Server
 
-![image.png](image.png)
+### executando o segundo script de teste, realizando a gravaçao dos dados no banco de dados SQL Server.
 
----
+### Modelo que utilizei para criar a tabela no SQLServer
 
-executando o segundo script de teste, realizando a gravaçao dos dados no banco de dados SQL Server.
+### execucao final, script automatizado
 
-![image.png](image%201.png)
+### modelo gerado com pandas no excel
 
-![image.png](image%202.png)
-
----
-
-Modelo que utilizei para criar a tabela no SQLServer
-
-![image.png](image%203.png)
-
-execucao final, script automatizado
-
-![image.png](image%204.png)
-
-modelo gerado com pandas no excel
-
-![image.png](image%205.png)
 
 ---
 
