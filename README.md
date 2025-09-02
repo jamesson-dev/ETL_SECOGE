@@ -55,4 +55,4 @@ O pandas ja utilizo a algum tempo foi onde eu pude resolver alguns porblemas par
 
 no inicio preferia realizar o projeto no colab por ser mais pratico, porem foram surgindo problemas com instabilidade e por ser uma ferramenta web, no final acabei optando pelo bom e velho VSCode, que numca me deixa na mao e quando tem algum problema consigo resolver sem muitas dificuldades. Tambem pensei em utilizar o pySpark mas como era um volume de dados pequeno nao valia o esforço, o pandas foi otimo nessa situação.
 
-## Mais detalhes do codigo no arquivo Documentacao ETL Secoge
+## Mais detalhes do codigo no arquivo Documentacao ETL Secoge.pdf
